@@ -1,0 +1,1157 @@
+2021-10-19 00:10:48.5289|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-19 00:10:48.5844|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:10:48.5844|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-19 00:10:48.5844|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge
+2021-10-19 00:11:28.8473|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-19 00:11:28.8953|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:28.9137|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-19 00:11:28.9137|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge
+2021-10-19 00:11:34.4563|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:38.3575|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:39.1065|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:44.5629|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:44.6666|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:45.7830|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:45.8757|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:48.2312|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:48.2745|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:49.8345|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:49.8656|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:54.9012|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:11:54.9341|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:11:59.9755|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:00.0162|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:05.0782|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:05.1129|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:07.6999|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:07.7532|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:10.1418|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:10.1661|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:12.3538|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:12.6800|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:15.1880|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:15.2072|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:20.2454|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:20.2807|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:25.3249|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:25.3417|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:30.3742|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:30.3909|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:35.4204|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:35.4445|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:39.2567|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: application/json; charset=utf-8
+Scheme: https
+
+2021-10-19 00:12:39.8716|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: 
+Status Code: 200
+
+2021-10-19 00:12:39.9170|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:39.9372|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:40.5214|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:40.5587|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:42.8730|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:42.8871|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:45.7473|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:45.7645|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:50.8108|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:50.8324|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:12:55.9393|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:12:55.9560|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:00.9861|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:01.0011|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:06.0309|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:06.0555|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:11.0865|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:11.1235|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:16.1601|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:16.1808|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:21.2127|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:21.2367|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:22.8743|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:22.9065|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:26.0053|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:26.0223|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:26.2720|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:26.3006|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:27.3893|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:27.4045|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:29.0896|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:29.0896|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:31.3333|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:31.3447|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:36.3694|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:36.3803|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:41.4049|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:41.4205|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:46.4514|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:46.4689|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:51.4968|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:51.5136|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:13:56.5366|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:13:56.5366|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:14:01.5659|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:14:01.5755|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:14:06.5943|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:14:06.6056|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:15:34.9876|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-19 00:15:35.0918|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:15:35.1016|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-19 00:15:35.1016|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge
+2021-10-19 00:15:40.9632|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:15:41.9850|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:15:42.1206|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:15:47.6052|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:15:47.6565|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:15:52.6814|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:15:52.7109|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:15:57.7621|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:15:57.8063|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:02.8602|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:02.8867|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:07.9064|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:07.9339|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:12.9609|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:12.9816|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:18.0047|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:18.0300|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:23.0510|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:23.0722|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:28.0985|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:28.1204|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:33.1358|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:33.1558|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:38.1820|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:38.2032|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:43.2201|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:43.2411|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:48.2717|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:48.2939|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:53.3268|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:53.3544|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:16:58.3789|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:16:58.3979|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:03.4306|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:03.4547|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:04.0798|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:04.0994|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:07.0262|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:07.2401|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:08.4700|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:08.4894|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:11.5762|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: application/json; charset=utf-8
+Scheme: https
+
+2021-10-19 00:17:12.0242|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: 
+Status Code: 200
+
+2021-10-19 00:17:12.0538|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:12.0661|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:13.5151|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:13.5287|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:18.5582|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:18.5582|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:23.5921|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:23.6052|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:28.2447|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:28.2772|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:28.6299|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:28.6403|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:31.8525|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:31.8740|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:33.6465|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:33.6615|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:38.6793|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:38.6944|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:43.7145|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:43.7145|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:48.7300|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:48.7300|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:53.7616|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:53.7718|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:17:58.7929|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:17:58.8062|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:03.8091|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:03.8091|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:05.6376|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: application/json; charset=utf-8
+Scheme: https
+
+2021-10-19 00:18:05.6832|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: 
+Status Code: 200
+
+2021-10-19 00:18:05.7113|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:05.7192|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:08.8363|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:08.8452|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:08.9948|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:08.9948|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:09.0712|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:09.0712|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:10.8778|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:10.8934|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:12.4844|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:12.4958|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:13.8664|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:13.8776|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:17.5768|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:17.5927|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:18.8912|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:18.9048|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:23.9295|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:23.9429|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:28.9482|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:28.9482|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:33.9701|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:33.9701|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:34.3809|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:34.3933|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:38.9888|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:39.0028|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:39.1880|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:39.2055|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:40.7826|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:40.7826|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:44.0429|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:44.0748|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:44.3410|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:44.3410|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:49.0928|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:49.1033|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:50.0436|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:50.0581|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:54.1135|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:54.1250|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:18:59.1426|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:18:59.1527|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:04.1809|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:04.1909|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:09.2137|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:09.2137|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:14.2226|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:14.2325|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:19.2437|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:19.2437|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:24.2666|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:24.2822|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:29.2995|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:29.3121|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:34.3305|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:34.3460|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:39.3598|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:39.3752|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:44.3945|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:44.4040|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:49.4235|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:49.4314|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:54.4630|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:54.4630|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:57.4455|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:57.4455|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:19:59.4806|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:19:59.4806|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:04.5114|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:04.5114|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:09.5408|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:09.5499|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:14.5684|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:14.5766|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:19.5909|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:19.6011|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:24.6141|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:24.6265|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:29.6662|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:29.6750|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:34.6880|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:34.6880|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:39.7131|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:39.8279|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:44.8505|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:44.8505|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:49.8760|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:49.8852|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:54.8969|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:54.8969|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:20:59.9191|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:20:59.9191|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:04.9376|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:04.9481|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:09.9716|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:09.9816|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:15.0005|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:15.0123|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:33.1942|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:33.1942|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:33.2164|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:33.2344|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:38.5034|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:38.5168|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:43.5395|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:43.5395|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:48.5897|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:48.6066|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:53.6293|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:53.6402|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:21:58.6606|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:21:58.6692|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:03.6911|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:03.7012|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:08.7221|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:08.7315|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:13.7507|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:13.7613|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:18.7801|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:18.7918|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:22.6127|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:22.6213|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:23.8163|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:23.8248|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-19 00:22:28.8517|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-19 00:22:28.8517|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+

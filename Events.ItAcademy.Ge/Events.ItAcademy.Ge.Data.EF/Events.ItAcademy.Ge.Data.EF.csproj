@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Events.ItAcademy.Ge.Data\Events.ItAcademy.Ge.Data.csproj" />
+    <ProjectReference Include="..\Events.ItAcademy.Ge.Domain\Events.ItAcademy.Ge.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

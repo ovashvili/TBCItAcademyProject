@@ -1,0 +1,72 @@
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.deps.json
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfo.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CopyComplete
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.deps.json
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfo.cs
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CopyComplete
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\backup\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.deps.json
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfo.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CopyComplete
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.deps.json
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfo.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CopyComplete
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.deps.json
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfo.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CopyComplete
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.deps.json
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.AssemblyInfo.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.csproj.CopyComplete
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\Events.ItAcademy.Ge.PersistenceDB\obj\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb

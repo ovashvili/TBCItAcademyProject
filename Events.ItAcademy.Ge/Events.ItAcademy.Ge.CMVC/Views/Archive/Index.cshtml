@@ -1,0 +1,53 @@
+﻿@inject SignInManager<ApplicationUser> signInManager;
+@inject UserManager<ApplicationUser> userManager;
+@model IEnumerable<Events.ItAcademy.Ge.CMVC.Models.EventViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+
+    Pager pager = new Pager();
+
+    int pgNo = 0;
+
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pgNo = pager.CurrentPage;
+    }
+}
+
+<h1>Archive</h1>
+
+<partial name="_pagerPartial" model="@pager" />
+
+<div class="card-deck">
+    @foreach (var _event in Model)
+    {
+        var photoPath = "~/img/" + (_event.PhotoPath ?? "noimg.png");
+        <div class="card m-3 bg-light" style="min-width: 18rem; max-width:30.5%;">
+            <div class="card-header">
+                <h3>@_event.Name</h3>
+            </div>
+
+            <img class="card-img-top imageThumbnail" src="@photoPath"
+                 asp-append-version="true" />
+
+            <a class="card-footer font-weight-normal text-center">Date : @_event.Date</a>
+            <div class="card-footer text-center">
+                <a asp-action="Details" asp-route-id="@_event.EventID" class="btn btn-info">Details</a>
+                @if (signInManager.IsSignedIn(User))
+                {
+                    var user = await userManager.GetUserAsync(User);
+
+                    if (User.IsInRole("Admin"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@_event.EventID" class="btn btn-danger">Delete</a>
+                    }
+                }
+            </div>
+        </div>
+    }
+</div>
+
+<partial name="_pagerPartial" model="@pager" />
+

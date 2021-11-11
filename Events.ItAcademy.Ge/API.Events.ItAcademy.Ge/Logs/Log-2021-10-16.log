@@ -1,0 +1,19 @@
+2021-10-16 16:09:37.8519|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-16 16:09:37.8871|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-16 16:09:37.9052|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-16 16:09:37.9052|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge
+2021-10-16 16:09:39.1069|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Request Details***
+Content Types: 
+Scheme: https
+
+2021-10-16 16:09:41.0165|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+
+2021-10-16 16:09:41.0165|INFO|API.Events.ItAcademy.Ge.Infrastructure.Middlewares.RequestResponseLoggerMiddleware|***Response Details***
+Content Types: application/json; charset=utf-8
+Status Code: 200
+

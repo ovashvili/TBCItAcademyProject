@@ -1,0 +1,512 @@
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.exe
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.deps.json
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.json
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.dev.json
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfo.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.xml
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.Events.ItAcademy.Ge.styles.css
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.input.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.output.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorCoreGenerate.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CopyComplete
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.genruntimeconfig.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.exe
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.deps.json
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.json
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.dev.json
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfo.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.xml
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.Events.ItAcademy.Ge.styles.css
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.input.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.output.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CopyComplete
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.genruntimeconfig.cache
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfo.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.exe
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.deps.json
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.json
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.dev.json
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.dll
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.xml
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.Events.ItAcademy.Ge.styles.css
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.input.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.output.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorCoreGenerate.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CopyComplete
+C:\Users\User\Desktop\backup - Copy (2)\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.genruntimeconfig.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.exe
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.deps.json
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.json
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.dev.json
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfo.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.xml
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.Events.ItAcademy.Ge.styles.css
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.input.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.output.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CopyComplete
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.genruntimeconfig.cache
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\Publisher V1 - Copy\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.dll
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.pdb
+C:\Users\User\source\repos\NikushaOvashvili\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.exe
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.deps.json
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.json
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.runtimeconfig.dev.json
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Mapster.Core.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.PersistenceDB.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Services.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Data.EF.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\bin\Debug\netcoreapp3.1\Events.ItAcademy.Ge.Domain.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.AssemblyInfo.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\staticwebassets\API.Events.ItAcademy.Ge.StaticWebAssets.xml
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.Events.ItAcademy.Ge.styles.css
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.input.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.TagHelpers.output.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorCoreGenerate.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.Views.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.csproj.CopyComplete
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.dll
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.pdb
+C:\Users\User\Desktop\project\Events.ItAcademy.Ge\API.Events.ItAcademy.Ge\obj\Debug\netcoreapp3.1\API.Events.ItAcademy.Ge.genruntimeconfig.cache
